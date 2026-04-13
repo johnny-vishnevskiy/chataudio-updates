@@ -3,6 +3,19 @@
     <channel>
         <title>ChatAudio</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Mon, 13 Apr 2026 16:50:18 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.1.zip" length="1073975" type="application/octet-stream" sparkle:edSignature="AIxjNyPfwxi9LYEyp/XybY7ZLv0C7Fm/JGUdhB5MyU+YLwDTV+oLy9oagaVxvCy1ybYInN76AsIXtrcjBVaACg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio2-1.delta" sparkle:deltaFrom="1" length="2014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EHUfzYeQlPF//qHhW867Q5RLEsFxTUL+DABXirWSs/1dbvwDiy5DpY3rb61TrszENn8tsLboF0GfWH7gLpA0BA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Mon, 13 Apr 2026 16:49:09 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
