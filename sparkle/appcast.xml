@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ChatAudio</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 13 Apr 2026 16:49:09 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.0.zip" length="1073991" type="application/octet-stream" sparkle:edSignature="NT6/oZJTBrG/0J603oEk1pc7Hx+0q3T6ibFJNOVvb6Q1ePiRB9cbkyM5GoL5fAYanHH2e+9i06Ip/iiaK8CaAw=="/>
+        </item>
+    </channel>
+</rss>
