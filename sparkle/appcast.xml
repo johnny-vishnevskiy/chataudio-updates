@@ -10,7 +10,7 @@
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.1.zip" length="1177604" type="application/octet-stream" sparkle:edSignature="D2JK26szZvf1qgckYnZSVOg7//CVs03f/1QrDlJtKlm+07hOZ6Ksx3EJ1nnQPBBMUNRBI0227MJm5XiL2jDgCQ=="/>
+            <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.1.zip" length="1177617" type="application/octet-stream" sparkle:edSignature="N4BgyyqKaiPkPpP48vs1IHGUmSAOdEwO0xxXoVwY9BPDrEyeQSm7vtJ2/XE9DhhpFxuOs8vbPExxlJir+6H4AQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio2-1.delta" sparkle:deltaFrom="1" length="2014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EHUfzYeQlPF//qHhW867Q5RLEsFxTUL+DABXirWSs/1dbvwDiy5DpY3rb61TrszENn8tsLboF0GfWH7gLpA0BA=="/>
             </sparkle:deltas>
