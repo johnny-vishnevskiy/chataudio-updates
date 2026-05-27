@@ -3,6 +3,22 @@
     <channel>
         <title>ChatAudio</title>
         <item>
+            <title>1.3</title>
+            <pubDate>Thu, 16 Apr 2026 13:47:27 -0400</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.3.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/johnny-vishnevskiy/chataudio-updates/releases/download/v1.3/ChatAudio-1.3.zip" length="125578434" type="application/octet-stream" sparkle:edSignature="uo+6Zlz92TZVfBHptYdwfyCgFcwgNL50Rq06cgSi1skUC9Nrr/3NbE1i5UoYaggItx3oRNndmB4FVSNcIRi+DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio21-20.delta" sparkle:deltaFrom="20" length="98270522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8JcILNxOvK4TiUUu+gmLiNm7KqSjvHoOB2XOyQ3veX8yTHYeKmctNGJEmh2E75mPLe6jofTRG5GKBtbQILONAg=="/>
+                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio21-19.delta" sparkle:deltaFrom="19" length="98331938" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9FeMUgVgH3KPSy0mgiSbcSPoHU1QKGgJub7wB5E6eqF5/8Y6u6O5e2O65S1UJMsVjpT9+hZf3hoRdDUJPppYCA=="/>
+                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio21-18.delta" sparkle:deltaFrom="18" length="89203806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CLAsgvZ3YSVdyzVAs17e1h+lO5PMOa2+hj/Qmc4S9Y08C3ZeSsNmryPzq7uDPpUl1+FG1489CAl2ByVxtaGoCA=="/>
+                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio21-17.delta" sparkle:deltaFrom="17" length="89338090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="p65ZTP4JcDASxzTCSvNarr+h7Jouc0P33GwS4qpfYtktg75FZ+ZuHin45Bcw5xVxc+TJ/XAl4EdK+El0wJq0Cg=="/>
+                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio21-16.delta" sparkle:deltaFrom="16" length="96236270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GdZGv/I01g+Mv/nGeLMzKO5783IGaH9CZjxP5bkyYYqDlipaJ8CAItq0njM/vl5hqpMkaEp+yTdpcutYph/GDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Sun, 24 May 2026 14:40:41 -0400</pubDate>
             <sparkle:version>20</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio19-16.delta" sparkle:deltaFrom="16" length="24347298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uke7ZvDVIrymmedkn6D3C/oMYM8XnZHbBbZLnp96F0Gf4c6DWHoVCV7uWx0G6cfMBC7A7bicEgAK9tFT9Qp1AA=="/>
                 <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio19-15.delta" sparkle:deltaFrom="15" length="24439386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8mhIGJAsIYhnenrHDJPkLGD4hDnJ4pzayowhjgychMgSs5pCpqQRAWvfTS9pcHfS/dBN5/cYe8m3Ehjxve50CQ=="/>
                 <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio19-14.delta" sparkle:deltaFrom="14" length="24495922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/MUsE92Yq0a/+h1OiMRPPPHA2eqKNsQWR/LqM2XfATa5mJUBwFjVn6ixe8bItvcEAKD6CbtzlTQuGDSq8fomDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.17</title>
-            <pubDate>Wed, 20 May 2026 16:41:47 -0400</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.17.md</sparkle:releaseNotesLink>
-            <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.17.zip" length="21354121" type="application/octet-stream" sparkle:edSignature="38h0Cn798KyMRrLTnYcBSlFFTkf4GE1HwYh9IYQVkv+pwojwdP2H9T5GWl/dBj7EPreCaaRs/bgl8WFKIN5SBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio18-17.delta" sparkle:deltaFrom="17" length="1782794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oXg1wnwJqTCk0sqnCtOiRrZ+F/4e4ouB3UQ2B82DUr4mpEdSBO3NYMye9iXKEB2i+SD9UQ97ZUdJ3uGDDFesDg=="/>
-                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio18-16.delta" sparkle:deltaFrom="16" length="11157798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vKgwY2XMh7r+Dhx5r5sGlZHiH2YZLTomoaxPSriaOA92Q1kZ8L+BaBpF+vEKQEavT4Fb4DTiS33pSx6i+nxpBA=="/>
-                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio18-15.delta" sparkle:deltaFrom="15" length="11448434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KZPCsbLIsNi01NViMt9mystUmAW43wpFGRj5kQWuc/881Wx/GYxBiCsGxsCDXrujE3Oip7VAIyfkKowkxiH5Dw=="/>
-                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio18-14.delta" sparkle:deltaFrom="14" length="11516518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="u35lS28Rk32gv+aE7V9c6MVOLHRbAjKcVB8g8NCQpl1puECkRAB10am45H/6tyxeGrQo/F8UNBzAc/MCHoBgCg=="/>
-                <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio18-13.delta" sparkle:deltaFrom="13" length="12467094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6Yn/8cl57p28ddqcQ6iull2jel5PksJRdkruhpnIx5NrSwtc42fA7huXTOTqn9xDG8Pge0t4wKkim8lXAhwEBw=="/>
             </sparkle:deltas>
         </item>
         <item>
