@@ -1,3 +1,3 @@
-# Installers over GitHub's 100 MB limit are served from GitHub Releases.
+# Installers are served from GitHub Releases (not this repo).
 /ChatAudio-*.dmg
 /ChatAudio-latest.dmg
