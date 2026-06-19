@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.3.3.md</sparkle:releaseNotesLink>
-            <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio-1.3.3.zip" length="56057291" type="application/octet-stream" sparkle:edSignature="XT8WEy08FWQOkRHK4cMG85o4DKaHDv+8zZYrc60RD13RDh1JWpJhsryC/fv5PVGHayWiOUCxAZp0B8dJaYfXDw=="/>
+            <enclosure url="https://github.com/johnny-vishnevskiy/chataudio-updates/releases/download/v1.3.3/ChatAudio-1.3.3.zip" length="56057291" type="application/octet-stream" sparkle:edSignature="XT8WEy08FWQOkRHK4cMG85o4DKaHDv+8zZYrc60RD13RDh1JWpJhsryC/fv5PVGHayWiOUCxAZp0B8dJaYfXDw=="/>
             <sparkle:deltas>
                 <enclosure url="https://johnny-vishnevskiy.github.io/chataudio-updates/sparkle/ChatAudio24-23.delta" sparkle:deltaFrom="23" length="6469722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ewNHhacmzOqN9OoqkdjG4Pac4FevpJM9v6P6aqxGmI0UcEHgYfT12PGxfDBTk/KgrAnOQl6sqlDUpN2b/HvKDQ=="/>
             </sparkle:deltas>
